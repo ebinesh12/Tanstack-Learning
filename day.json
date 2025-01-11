@@ -1,0 +1,263 @@
+
+{
+    "days":[
+        {
+            "day": "Sunday",
+            "CrimesByCategory": [
+                { "category": "Drug Offenses", "count": 2195 },
+                { "category": "Assault", "count": 2175 },
+                { "category": "Homicide", "count": 2173 },
+                { "category": "Vandalism", "count": 2168 },
+                { "category": "Robbery", "count": 2163 },
+                { "category": "Theft", "count": 2142 },
+                { "category": "Arson", "count": 2141 },
+                { "category": "Traffic Offenses", "count": 2140 },
+                { "category": "Fraud", "count": 2094 },
+                { "category": "Burglary", "count": 2074 }
+            ],
+            "Resolutions": [
+                { "type": "Arrest Made", "count": 4355 },
+                { "type": "Pending Investigation", "count": 4336 },
+                { "type": "Solved", "count": 4325 },
+                { "type": "No Arrest", "count": 4308 },
+                { "type": "Unresolved", "count": 4141 }
+            ],
+            "CrimesByDescription": [
+                { "description": "Retail theft", "count": 765 },
+                { "description": "Hit and run", "count": 758 },
+                { "description": "Attempted murder", "count": 752 },
+                { "description": "Drug trafficking", "count": 749 },
+                { "description": "Manufacturing drugs", "count": 740 },
+                { "description": "Armed robbery", "count": 736 },
+                { "description": "Domestic assault", "count": 735 },
+                { "description": "Vandalized vehicle", "count": 733 },
+                { "description": "Graffiti", "count": 729 },
+                { "description": "Manslaughter", "count": 723 },
+                { "description": "Physical altercation", "count": 721 },
+                { "description": "Battery", "count": 719 },
+                { "description": "Strong-arm robbery", "count": 718 },
+                { "description": "Attempted arson", "count": 716 },
+                { "description": "Vehicle arson", "count": 716 },
+                { "description": "Breaking and entering", "count": 711 },
+                { "description": "Arson", "count": 709 },
+                { "description": "Mugging", "count": 709 },
+                { "description": "Reckless driving", "count": 709 },
+                { "description": "Insurance fraud", "count": 707 },
+                { "description": "Identity theft", "count": 706 },
+                { "description": "Property damage", "count": 706 },
+                { "description": "Possession of controlled substances", "count": 706 },
+                { "description": "Murder", "count": 698 },
+                { "description": "Theft from vehicle", "count": 695 },
+                { "description": "Unauthorized entry", "count": 694 },
+                { "description": "Property stolen", "count": 682 },
+                { "description": "Credit card fraud", "count": 681 },
+                { "description": "Driving under the influence", "count": 673 },
+                { "description": "Burglary in progress", "count": 669 }
+            ]
+        },
+        {
+            "day": "Monday",
+            "CrimesByCategory": [
+                { "category": "Theft", "count": 2300 },
+                { "category": "Homicide", "count": 2200 },
+                { "category": "Drug Offenses", "count": 2185 },
+                { "category": "Fraud", "count": 2167 },
+                { "category": "Robbery", "count": 2149 },
+                { "category": "Burglary", "count": 2130 },
+                { "category": "Assault", "count": 2123 },
+                { "category": "Traffic Offenses", "count": 2119 },
+                { "category": "Arson", "count": 2113 },
+                { "category": "Vandalism", "count": 2107 }
+            ],
+            "Resolutions": [
+                { "type": "No Arrest", "count": 4400 },
+                { "type": "Pending Investigation", "count": 4350 },
+                { "type": "Unresolved", "count": 4300 },
+                { "type": "Solved", "count": 4250 },
+                { "type": "Arrest Made", "count": 4200 }
+            ],
+            "CrimesByDescription": [
+                { "description": "Mugging", "count": 800 },
+                { "description": "Identity theft", "count": 790 },
+                { "description": "Attempted murder", "count": 780 },
+                { "description": "Drug trafficking", "count": 770 },
+                { "description": "Reckless driving", "count": 760 },
+                { "description": "Credit card fraud", "count": 750 },
+                { "description": "Burglary in progress", "count": 740 },
+                { "description": "Armed robbery", "count": 730 },
+                { "description": "Domestic assault", "count": 720 },
+                { "description": "Vehicle arson", "count": 710 }
+            ]
+        },
+        {
+            "day": "Tuesday",
+            "CrimesByCategory": [
+                { "category": "Homicide", "count": 2250 },
+                { "category": "Theft", "count": 2200 },
+                { "category": "Fraud", "count": 2185 },
+                { "category": "Drug Offenses", "count": 2170 },
+                { "category": "Burglary", "count": 2155 },
+                { "category": "Robbery", "count": 2130 },
+                { "category": "Arson", "count": 2120 },
+                { "category": "Traffic Offenses", "count": 2110 },
+                { "category": "Assault", "count": 2105 },
+                { "category": "Vandalism", "count": 2095 }
+            ],
+            "Resolutions": [
+                { "type": "No Arrest", "count": 4450 },
+                { "type": "Pending Investigation", "count": 4400 },
+                { "type": "Unresolved", "count": 4350 },
+                { "type": "Solved", "count": 4300 },
+                { "type": "Arrest Made", "count": 4250 }
+            ],
+            "CrimesByDescription": [
+                { "description": "Breaking and entering", "count": 820 },
+                { "description": "Insurance fraud", "count": 810 },
+                { "description": "Graffiti", "count": 800 },
+                { "description": "Property stolen", "count": 790 },
+                { "description": "Battery", "count": 780 },
+                { "description": "Physical altercation", "count": 770 },
+                { "description": "Unauthorized entry", "count": 760 },
+                { "description": "Manufacturing drugs", "count": 750 },
+                { "description": "Hit and run", "count": 740 },
+                { "description": "Attempted arson", "count": 730 }
+            ]
+        },
+        {
+            "day": "Wednesday",
+            "CrimesByCategory": [
+                { "category": "Robbery", "count": 2305 },
+                { "category": "Burglary", "count": 2285 },
+                { "category": "Theft", "count": 2250 },
+                { "category": "Homicide", "count": 2230 },
+                { "category": "Drug Offenses", "count": 2225 },
+                { "category": "Fraud", "count": 2210 },
+                { "category": "Assault", "count": 2195 },
+                { "category": "Traffic Offenses", "count": 2185 },
+                { "category": "Arson", "count": 2170 },
+                { "category": "Vandalism", "count": 2165 }
+            ],
+            "Resolutions": [
+                { "type": "No Arrest", "count": 4500 },
+                { "type": "Pending Investigation", "count": 4450 },
+                { "type": "Unresolved", "count": 4400 },
+                { "type": "Solved", "count": 4350 },
+                { "type": "Arrest Made", "count": 4300 }
+            ],
+            "CrimesByDescription": [
+                { "description": "Theft from vehicle", "count": 830 },
+                { "description": "Retail theft", "count": 820 },
+                { "description": "Identity theft", "count": 810 },
+                { "description": "Murder", "count": 800 },
+                { "description": "Strong-arm robbery", "count": 790 },
+                { "description": "Attempted murder", "count": 780 },
+                { "description": "Mugging", "count": 770 },
+                { "description": "Reckless driving", "count": 760 },
+                { "description": "Property damage", "count": 750 },
+                { "description": "Drug trafficking", "count": 740 }
+            ]
+        },
+        {
+            "day": "Thursday",
+            "CrimesByCategory": [
+                { "category": "Robbery", "count": 2244 },
+                { "category": "Homicide", "count": 2220 },
+                { "category": "Arson", "count": 2184 },
+                { "category": "Theft", "count": 2170 },
+                { "category": "Assault", "count": 2169 },
+                { "category": "Traffic Offenses", "count": 2164 },
+                { "category": "Fraud", "count": 2158 },
+                { "category": "Drug Offenses", "count": 2131 },
+                { "category": "Burglary", "count": 2127 },
+                { "category": "Vandalism", "count": 2117 }
+            ],
+            "Resolutions": [
+                { "type": "No Arrest", "count": 4390 },
+                { "type": "Pending Investigation", "count": 4361 },
+                { "type": "Unresolved", "count": 4324 },
+                { "type": "Solved", "count": 4313 },
+                { "type": "Arrest Made", "count": 4296 }
+            ],
+            "CrimesByDescription": [
+                { "description": "Mugging", "count": 788 },
+                { "description": "Attempted murder", "count": 781 },
+                { "description": "Property stolen", "count": 769 },
+                { "description": "Insurance fraud", "count": 743 },
+                { "description": "Driving under the influence", "count": 742 },
+                { "description": "Property damage", "count": 739 },
+                { "description": "Arson", "count": 738 },
+                { "description": "Drug trafficking", "count": 737 },
+                { "description": "Strong-arm robbery", "count": 736 },
+                { "description": "Reckless driving", "count": 730 }
+            ]
+        },
+        {
+            "day": "Friday",
+            "CrimesByCategory": [
+                { "category": "Theft", "count": 2226 },
+                { "category": "Homicide", "count": 2223 },
+                { "category": "Drug Offenses", "count": 2215 },
+                { "category": "Fraud", "count": 2205 },
+                { "category": "Robbery", "count": 2195 },
+                { "category": "Burglary", "count": 2185 },
+                { "category": "Assault", "count": 2175 },
+                { "category": "Traffic Offenses", "count": 2165 },
+                { "category": "Arson", "count": 2155 },
+                { "category": "Vandalism", "count": 2145 }
+            ],
+            "Resolutions": [
+                { "type": "No Arrest", "count": 4380 },
+                { "type": "Pending Investigation", "count": 4370 },
+                { "type": "Unresolved", "count": 4360 },
+                { "type": "Solved", "count": 4350 },
+                { "type": "Arrest Made", "count": 4340 }
+            ],
+            "CrimesByDescription": [
+                { "description": "Breaking and entering", "count": 800 },
+                { "description": "Armed robbery", "count": 790 },
+                { "description": "Insurance fraud", "count": 780 },
+                { "description": "Burglary in progress", "count": 770 },
+                { "description": "Attempted arson", "count": 760 },
+                { "description": "Manufacturing drugs", "count": 750 },
+                { "description": "Strong-arm robbery", "count": 740 },
+                { "description": "Hit and run", "count": 730 },
+                { "description": "Vehicle arson", "count": 720 },
+                { "description": "Retail theft", "count": 710 }
+            ]
+        },
+        {
+            "day": "Saturday",
+            "CrimesByCategory": [
+                { "category": "Homicide", "count": 2210 },
+                { "category": "Theft", "count": 2200 },
+                { "category": "Robbery", "count": 2190 },
+                { "category": "Assault", "count": 2180 },
+                { "category": "Drug Offenses", "count": 2170 },
+                { "category": "Traffic Offenses", "count": 2160 },
+                { "category": "Fraud", "count": 2150 },
+                { "category": "Burglary", "count": 2140 },
+                { "category": "Arson", "count": 2130 },
+                { "category": "Vandalism", "count": 2120 }
+            ],
+            "Resolutions": [
+                { "type": "No Arrest", "count": 4320 },
+                { "type": "Pending Investigation", "count": 4310 },
+                { "type": "Unresolved", "count": 4300 },
+                { "type": "Solved", "count": 4290 },
+                { "type": "Arrest Made", "count": 4280 }
+            ],
+            "CrimesByDescription": [
+                { "description": "Theft from vehicle", "count": 800 },
+                { "description": "Property damage", "count": 790 },
+                { "description": "Mugging", "count": 780 },
+                { "description": "Reckless driving", "count": 770 },
+                { "description": "Attempted murder", "count": 760 },
+                { "description": "Credit card fraud", "count": 750 },
+                { "description": "Driving under the influence", "count": 740 },
+                { "description": "Unauthorized entry", "count": 730 },
+                { "description": "Manufacturing drugs", "count": 720 },
+                { "description": "Battery", "count": 710 }
+            ]
+        }
+    ]
+}
